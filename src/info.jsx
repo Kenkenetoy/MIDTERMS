@@ -69,12 +69,12 @@ const projectData = [
   },
   {
     title: "Isometric 3d Room",
-    description: "This is a isometric 3d room with cartoony vibes",
+    description: "This is an isometric 3d room with cartoony vibes",
     demoUrl: "src/assets/images/With Curtains.png",
   },
   {
     title: "Isometric 3d Room (Without Curtains)",
-    description: "This is a isometric 3d room with cartoony vibes",
+    description: "This is an isometric 3d room with cartoony vibes",
     demoUrl: "src/assets/images/Without Curtains.png",
   },
   {
