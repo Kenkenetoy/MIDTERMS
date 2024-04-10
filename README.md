@@ -8,3 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # reused repo: Event Driven Programming Files
+
+# figma link
+# https://www.figma.com/file/NkmtrndJNt1kLCfcYR0uP2/Midterms-Figma?type=design&node-id=0%3A1&mode=design&t=jW209fgkZ7G2yXYF-1
