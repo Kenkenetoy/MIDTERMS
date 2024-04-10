@@ -1,6 +1,5 @@
 const backgroundImageUrl =
   "src/assets/images/340083408_592937682567333_4169994257587675022_n.jpg";
-
 const name = {
   firstname: "Kenneth",
   lastname: "Aparece",
